@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AN_DB2_Pic_Improve-master/app/src/main/java/addnote/vnps/addnotes/common/ApplicationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/Common/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/formstepper/forms/EventTwoFormDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/formstepper/forms/NameMarriageFormDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/home/HomeScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pkapoor/wed/ViewGeneratedInvite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/recent_viewed_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/AD_NO_FAB_SEP-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/AD_NO_FAB_SEP-master/app/src/main/java/addnote/vnps/addnotes/addnotes/view/About_us.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/AD_NO_FAB_SEP-master/app/src/main/java/addnote/vnps/addnotes/common/ApplicationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/AD_NO_FAB_SEP-master/app/src/main/java/addnote/vnps/addnotes/common/CommonUtilities.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/AD_NO_FAB_SEP-master/app/src/main/java/addnote/vnps/addnotes/dropbox/DropBoxActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/AD_NO_FAB_SEP-master/app/src/main/java/addnote/vnps/addnotes/editnotes/view/EditNotesView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/AD_NO_FAB_SEP-master/app/src/main/java/addnote/vnps/addnotes/shopping/ShoppingNote.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
